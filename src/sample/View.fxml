@@ -24,4 +24,6 @@
   <ListView fx:id="listView" prefHeight="300.0" prefWidth="800.0" />
   <Button fx:id="ExportSelectedItems" mnemonicParsing="false" onAction="#exportItems" prefHeight="24.0" prefWidth="120.0" text="Export"  />
   <Button fx:id="ScanPolicies" mnemonicParsing="false" onAction="#scanPolicies" prefHeight="24.0" prefWidth="120.0" text="Scan"  />
+  <Button fx:id="ChangePolicies" mnemonicParsing="false" onAction="#changePolicies" prefHeight="24.0" prefWidth="120.0" text="Change"  />
+
 </FlowPane>
